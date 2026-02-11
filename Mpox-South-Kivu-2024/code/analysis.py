@@ -1504,7 +1504,7 @@ cumulative_incidence_resolved_metadata = {
         "xlabel": "Time from admission (days)",
         "index_column": "Group",
         "xlim": [0, max_time],
-        "base_color_map": {"HIV positive": "hsl(146,57,40)", "HIV negative": "hsl(8,88,53)"},
+        "base_color_map": {"HIV positive": "hsl(146,57,40)", "HIV negative": "hsl(204,61,45)"},
         "height": 700,
         "suffix": "tables_and_figures",
         "filepath": "",
@@ -1774,7 +1774,7 @@ cumulative_incidence_resolved_metadata = {
         "xlabel": "Time from onset (days)",
         "index_column": "Group",
         "xlim": [0, max_time],
-        "base_color_map": {"HIV positive": "hsl(146,57,40)", "HIV negative": "hsl(8,88,53)"},
+        "base_color_map": {"HIV positive": "hsl(146,57,40)", "HIV negative": "hsl(204,61,45)"},
         "height": 700,
         "suffix": "tables_and_figures",
         "filepath": "",
@@ -1793,10 +1793,10 @@ cumulative_incidence_resolved_metadata = {
 }
 
 with open(os.path.join(tables_and_figures_filepath, "fig_cumulative_incidence_resolved_onset_metadata.json"), "w") as file:
-    file.write(json.dumps(cumulative_incidence_compl_metadata))
+    file.write(json.dumps(cumulative_incidence_resolved_metadata))
 
 with open(os.path.join(tables_and_figures_filepath, "fig_cumulative_incidence_resolved_onset_metadata.txt"), "w") as file:
-    file.write(json.dumps(cumulative_incidence_compl_metadata))
+    file.write(json.dumps(cumulative_incidence_resolved_metadata))
 
 aj_compl.to_csv(
     os.path.join(tables_and_figures_filepath, "fig_cumulative_incidence_compl_onset_data___0.csv"),
