@@ -1,0 +1,44 @@
+Variable,All
+Totals,408
+Sex at birth (*),
+   ↳ Male,212 (52.0) | 408
+   ↳ Female,196 (48.0) | 408
+Age in years (*),
+   ↳ 0-4,57 (14.0) | 408
+   ↳ 5-17,54 (13.2) | 408
+   ↳ 18-79,297 (72.8) | 408
+Outcome (*),
+   ↳ Discharged alive,402 (98.5) | 408
+   ↳ Died,6 (1.5) | 408
+Lesion resolution without serious complications (*),328 (80.4) | 408
+Number of days from admission to lesion resolution without serious complications (+),10.0 (8.0-13.0) | 328
+HIV status positive (*),20 (4.9) | 408
+Pregnancy (*),35 (19.9) | 176
+Pregnancy outcome (*),
+   ↳ Live birth,16 (45.7) | 35
+   ↳ Termination,16 (45.7) | 35
+   ↳ Neonatal death,3 (8.6) | 35
+Transmission route (*),
+   ↳ Sexual transmission,251 (61.5) | 408
+   ↳ Community contact,152 (37.3) | 408
+   ↳ Vertical transmission,3 (0.7) | 408
+First symptom (*),
+   ↳ Fever,158 (38.7) | 408
+   ↳ Rash,250 (61.3) | 408
+Eye complications (*),43 (10.5) | 408
+Psychological complications (*),36 (8.8) | 408
+Gyneco-obstetrical complications (*),48 (27.3) | 176
+Hospital readmission (*),1 (0.2) | 408
+Extended hospitalisation (>14 days) (*),55 (13.5) | 408
+"Any complication (eye, pyschological, gyneco-obstetrical, death, readmission, hospitalisation >14 days) (*)",123 (30.1) | 408
+Baseline lesion location,
+   ↳ Genital area,290 (71.1) | 408
+   ↳ Limbs,275 (67.4) | 408
+   ↳ Face,276 (67.6) | 408
+   ↳ Torso,263 (64.5) | 408
+Baseline lesion count (+),45.0 (23.0-109.5) | 408
+Baseline severity (*),
+   ↳ Critical,24 (5.9) | 408
+   ↳ Severe,86 (21.1) | 408
+   ↳ Moderate,184 (45.1) | 408
+   ↳ Mild,114 (27.9) | 408
