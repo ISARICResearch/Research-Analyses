@@ -8,6 +8,6 @@ To reproduce the outputs, you will need access to the raw data. If you have acce
 
 After this, you should be able to run an ISARIC VERTEX dashboard (at the time of writing, the commit is [0a41749](https://github.com/ISARICResearch/VERTEX/tree/0a417492c342475836c83a8009677edb7f81d85f)), which will take the files saved and create the figures.
 
-Package requirements are listed in `requirements.txt`, please ensure these are installed first. 
+Package requirements are listed in `requirements.txt`, please ensure these are installed first. Alternatively you can use the requirements from VERTEX.
 
 Add a link to the paper once here once published.
